@@ -29,6 +29,7 @@ body {
     background-position: center;
     background-size: cover;
     margin-bottom: 50px;
+    overflow: hidden;
     
 }
 
