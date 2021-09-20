@@ -38,6 +38,5 @@ window.addEventListener('scroll', () => {
     else {
         scrollUp.classList.remove('scroll-up--active');
     }
-    console.log('height: ', height);
 
 })
